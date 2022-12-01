@@ -6,19 +6,16 @@ export default function Navbar() {
     <div className={styles.navbar}>
       <div className={styles.links}>
         <Link href="/">
-          <a>Home</a>
-        </Link>
-        <Link href="/about">
-          <a>About</a>
+          <a>갱쓰 집</a>
         </Link>
         <Link href="/profile">
-          <a>Profile</a>
+          <a> 갱쓰 소개하지 </a>
         </Link>
-        <Link href="/coins">
-          <a>Coins</a>
+        <Link href="/hobby">
+          <a>갱쓰 취미 ⌯'▾'⌯</a>
         </Link>
-        <Link href="/contact">
-          <a>Contact</a>
+        <Link href="/love">
+          <a>Love</a>
         </Link>
       </div>
     </div>

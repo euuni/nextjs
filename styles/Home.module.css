@@ -2,16 +2,11 @@
   padding: 0 2rem;
 }
 
-.homeTitle {
-  color: red;
-}
-
 .title {
   margin: 1rem;
   line-height: 1.15;
-  font-size: 4rem;
-  color: blue;
-  background-color: cyan;
+  font-size: 3rem;
+  color: darkslategray;
 }
 .main {
   min-height: 100vh;
