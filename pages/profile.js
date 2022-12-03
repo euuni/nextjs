@@ -31,17 +31,17 @@ export default function profile() {
             <b>Age : (만)21세</b>
           </p>
           <a href="https://www.instagram.com/e_uuuni/">
-            <b>Insta: e_uuuni </b>
+            <b>Insta: </b> e_uuuni
           </a>
           <p>
             <b> Mbti : ESFP </b>
           </p>
           <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
-            <b>E-mail: choidy0106@gmail.com</b>
+            <b>E-mail: </b> choidy0106@gmail.com
           </a>
           <p>
             <a href="https://m.blog.naver.com/euuni_">
-              <b>Blog: euuni_</b>
+              <b>Blog: </b>euuni_
             </a>
           </p>
           <p>
